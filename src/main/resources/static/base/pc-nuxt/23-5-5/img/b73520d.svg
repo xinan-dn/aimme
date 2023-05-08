@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>我的空间列表/图标/我的关注/紫备份 2</title>
+    <g id="我的空间列表/图标/我的关注/紫备份-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-3">
+            <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <g id="编组" transform="translate(1.898654, 2.637589)" fill-rule="nonzero" stroke="#292A2D" stroke-width="1.8">
+                <g id="编组-2">
+                    <path d="M3.24053855,10.5317503 L1.20000005,10.5317503 C0.537258322,10.5317503 7.42067197e-16,9.99449197 0,9.33175025 L0,1.20000005 C-8.11624534e-17,0.537258322 0.537258322,-1.00300925e-16 1.20000005,0 L15.0026927,0 C15.6654344,-3.43788285e-16 16.2026928,0.537258322 16.2026928,1.20000005 L16.2026928,9.33175025 C16.2026928,9.99449197 15.6654344,10.5317503 15.0026927,10.5317503 L12.9621542,10.5317503 L3.24053855,10.5317503 Z" id="路径" stroke-linecap="round"></path>
+                    <line x1="4.86080783" y1="6.07600979" x2="4.86080783" y2="7.69627906" id="路径" stroke-linecap="round"></line>
+                    <line x1="8.10134638" y1="10.5317503" x2="8.10134638" y2="12.9621542" id="路径"></line>
+                    <line x1="8.10134638" y1="4.45574051" x2="8.10134638" y2="7.69627906" id="路径" stroke-linecap="round"></line>
+                    <line x1="11.3418849" y1="2.83547123" x2="11.3418849" y2="7.69627906" id="路径" stroke-linecap="round"></line>
+                    <line x1="3.24053855" y1="13.7722888" x2="12.9621542" y2="13.7722888" id="路径" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

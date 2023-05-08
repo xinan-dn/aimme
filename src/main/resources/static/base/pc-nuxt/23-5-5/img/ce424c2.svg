@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>我的空间列表/图标/我的关注/紫备份 3</title>
+    <g id="我的空间列表/图标/我的关注/紫备份-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-3" fill="#D8D8D8" opacity="0">
+            <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+        </g>
+        <g id="编组" transform="translate(5.139192, 5.723590)" fill-rule="nonzero" stroke="#292A2D" stroke-linecap="round" stroke-width="1.8">
+            <line x1="3.57385817" y1="0.925018892" x2="0.250908256" y2="4.2853558" id="路径"></line>
+            <line x1="3.68970457" y1="0.925018892" x2="6.1422687" y2="3.22737615" id="路径备份"></line>
+            <line x1="6.17192827" y1="3.22626812" x2="9.28315572" y2="4.04122393e-16" id="路径备份-2"></line>
+        </g>
+        <path d="M5.13919217,13.169339 L3.09865367,13.169339 C2.43591194,13.169339 1.89865362,12.6320807 1.89865362,11.969339 L1.89865362,3.83758879 C1.89865362,3.17484707 2.43591194,2.63758875 3.09865367,2.63758875 L16.9013463,2.63758875 C17.5640881,2.63758875 18.1013464,3.17484707 18.1013464,3.83758879 L18.1013464,11.969339 C18.1013464,12.6320807 17.5640881,13.169339 16.9013463,13.169339 L14.8608078,13.169339 L5.13919217,13.169339 Z" id="路径" stroke="#292A2D" stroke-width="1.8" stroke-linecap="round" fill-rule="nonzero"></path>
+        <line x1="10" y1="13.169339" x2="10" y2="15.599743" id="路径" stroke="#292A2D" stroke-width="1.8" fill-rule="nonzero"></line>
+        <line x1="5.13919217" y1="16.4098776" x2="14.8608078" y2="16.4098776" id="路径" stroke="#292A2D" stroke-width="1.8" stroke-linecap="round" fill-rule="nonzero"></line>
+    </g>
+</svg>

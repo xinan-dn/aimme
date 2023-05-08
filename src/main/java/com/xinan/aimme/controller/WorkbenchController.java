@@ -16,4 +16,10 @@ public class WorkbenchController {
     {
         return "workbench";
     }
+
+    @GetMapping("/workstation")
+    public String workstation(Model model)
+    {
+        return "workstation";
+    }
 }
