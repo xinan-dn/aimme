@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="force-rendering" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="static/imgs/logo.ico" rel="icon" type="image/x-ico">
+    <title>弈写AI辅助写作</title>
+    <script src="static/tinymce/js/tinymce/tinymce.min.js"></script>
+    <link href="static/css/app.9c42940e5290282efc35e3a99aa5fa1e.css" rel="stylesheet">
+</head>
+<body>
+<div id="app"></div>
+<div id="isIE" style="display: none;width: 800px;margin: auto;position: relative;top: 10vh;">
+    <div style="width:150px;float:left"><br><img src="static/imgs/ieError.png" width="100%"><br><br><br><br></div>
+    <p style="float:left"></p>
+    <p style="width: 600px;font-size: 18px;font-weight: bold;">您当前使用的IE浏览器内核版本过低， 为了更好的写作体验，<br>请使用其它推荐浏览器。</p>
+    <p>推荐浏览器：谷歌浏览器、火狐浏览器、360极速浏览器、搜狗浏览器、EDGD浏览器</p>
+    <p><a href="https://browser.360.cn/se/help/browser.html" target="_blank">如何设置360浏览器为极速模式</a><br><br><a
+            href="http://ie.sogou.com/help/help-4-7.html" target="_blank">如何设置搜狗浏览器为高速模式</a></p>
+    <p></p></div>
+<script>var userAgent = navigator.userAgent;
+if (window.ActiveXObject || "ActiveXObject" in window) {
+    var notSupport = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1; //判断是否IE<11浏览器
+    if (notSupport) {
+        document.getElementById("isIE").style.display = 'block';
+        document.getElementById("app").style.display = 'none';
+    } else {
+        //如果是IE11   则动态加载ie 专属样式
+        var fileref = document.createElement('link');
+        fileref.setAttribute("rel", "stylesheet");
+        fileref.setAttribute("type", "text/css");
+        fileref.setAttribute("href", './static/css/ie.css');
+        document.getElementsByTagName("head")[0].appendChild(fileref);
+    }
+}
+;</script>
+<script type="text/javascript" src="static/js/manifest.3ad1d5771e9b13dbdad2.js"></script>
+<script type="text/javascript" src="static/js/vendor.f7de2fbe2fd439e37b15.js"></script>
+<script type="text/javascript" src="static/js/app.65afa46a414884cb7e62.js"></script>
+</body>
+</html>
